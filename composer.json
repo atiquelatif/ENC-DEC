@@ -1,0 +1,8 @@
+{
+  "name": "enc-dec-tool",
+  "description": "Encryption/Decryption Tool",
+  "type": "project",
+  "require": {
+    "php": ">=7.4"
+  }
+}

@@ -1,0 +1,12 @@
+# Redirect all requests to index.php
+DirectoryIndex index.php
+
+# Enable PHP error reporting (disable in production)
+# php_flag display_errors On
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+
