@@ -1,5 +1,5 @@
 {
-  "name": "enc-dec-tool",
+  "name": "enc-dec/tool",
   "description": "Encryption/Decryption Tool",
   "type": "project"
 }
