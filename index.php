@@ -183,7 +183,7 @@ $(function(){
 
         let t2 = $(".c").val();
         if(t == \'en\' || t == \'de\'){
-            $.post("' . "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] . '", {
+            $.post("", {
                 t: t,
                 t2: t2,
             }).then(function(res){
