@@ -29,6 +29,7 @@ A web-based encryption/decryption tool for AES-256-CBC encryption, Base64 encodi
 See `DEPLOYMENT_GUIDE.md` for detailed deployment instructions.
 
 Quick deploy to Railway:
+
 1. Connect this repository to Railway
 2. Railway will auto-detect PHP and deploy
 3. Your app will be live!
@@ -43,4 +44,3 @@ Quick deploy to Railway:
 ## License
 
 This project is provided as-is for team use.
-
